@@ -4,7 +4,7 @@
 
 - [x] Task 1 - To-Do List Application
 - [x] Task 3 - Password Generator
-- [ ] Task 5 - Contact Book
+- [x] Task 5 - Contact Book
 
 ## Technologies Used
 
