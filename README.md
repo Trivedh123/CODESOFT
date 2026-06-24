@@ -13,6 +13,9 @@
 - JSON
 - CLI Applications
 
-## Author
+## 👨‍💻 Author
 
-Kalluri Trivedh Sri Satya Sai
+**Kalluri Trivedh Sri Satya Sai**
+
+- B.Tech CSE
+- Raghu Engineering College
